@@ -95,7 +95,6 @@ The proxy is configured using a `config.json` file:
 | `maxShareRetries`           | Max number of share retry attempts                     | 2                       |
 | `shareTransitionWindow`     | Time window to accept shares from previous jobs (ms)   | 8000                    |
 | `extranoncePosition` | How to position extranonce (`prepend`, `append`, or `none`) | `prepend` |
-| `bypassExtranonceOnDevFee` | Skip extranonce formatting during dev fee time | `true` |
 | `adaptiveExtranonceFormatting` | Automatically learn successful nonce formats | `true` |
 ---
 
