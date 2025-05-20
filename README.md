@@ -96,6 +96,7 @@ The proxy is configured using a `config.json` file:
 | `shareTransitionWindow`     | Time window to accept shares from previous jobs (ms)   | 8000                    |
 | `extranoncePosition` | How to position extranonce (`prepend`, `append`, or `none`) | `prepend` |
 | `adaptiveExtranonceFormatting` | Automatically learn successful nonce formats | `true` |
+| `ignoreWorkerWallets` | Overrides the workers wallet and yous the one from the config.json | `true` |
 ---
 
 ## Usage
