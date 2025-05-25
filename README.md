@@ -13,7 +13,7 @@ A high-performance Stratum proxy for RandomY-based cryptocurrencies, with automa
 - **Share Retry:** Automatically retries rejected shares with alternative nonce formats  
 - **Comprehensive Statistics:** Real-time hashrate calculation and mining statistics  
 - **Low Latency:** Minimizes share submission latency for higher efficiency  
-- **Developer Fee:** Optional developer fee to support continued development  
+- **Developer Fee:** Minimum developer fee is pre-set to 2% to support continued development  
 
 ---
 
